@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_perfil"
+        android:title="Perfil"/>
+
+    <item android:id="@+id/action_Compis"
+        android:title="Compis del piso"/>
+
+    <item android:id="@+id/action_cerrarSesion"
+        android:title="Cerrar sesión"/>
+</menu>
